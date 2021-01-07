@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+:root{
+   --primary-color:#A7F3D0;
+   ;
+}
+body{
+    font-family: 'Yeon Sung', cursive;
+}
+.navigation{
+    background-color:#374151;
+    padding:1rem 1rem;
+    border-bottom-left-radius: 1rem;
+    text-align: right;
+}
+.nav-links{
+    padding:1rem 1rem;
+    /* font-weight: bold; */
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    
+}
+.nav-header{
+    text-align: left;
+}
+.link-active{
+    font-size: bolder;
+    font-size: 2rem;
+}
+.header{
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}
+.div{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.section{
+    text-align: center;
+    
+}
+.section-header{
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--primary-color);
+}
+.sec{
+    background-color: var(--primary-color);
+}
+.link{
+    text-decoration: none;
+    display: block;
+    border: 0.5px solid;
+    border-radius: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    display: block;
+    text-align: center;
+    background-color: var(--primary-color);
+}
+.link-primary{
+    text-decoration: none;
+    display: block;
+    border-radius: 0.5rem;
+    border:0.5px solid;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+    color: white;
+    background-color:#374151;
+}
+/* .footer{
+    text-align: left;
+    display: inline;
+    margin-right: 300px;
+    text-decoration: none;
+} */
+.projects{
+    background-color: var(--primary-color);
+    }
+.blogs{
+    text-align: center;
+}
