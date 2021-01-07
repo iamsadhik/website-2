@@ -26,7 +26,7 @@ body{
 }
 .link-active{
     font-size: bolder;
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 .header{
     max-width: 400px;
@@ -81,4 +81,7 @@ body{
     }
 .blogs{
     text-align: center;
+}
+.prosize{
+    font-size: 1.5rem;
 }
