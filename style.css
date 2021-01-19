@@ -93,3 +93,16 @@ body{
     text-align: center;
     font-size:2rem ;
 }
+
+.the-blogs{
+    text-decoration: none;
+    display: block;
+    border-radius: 0.5rem;
+    border:0.5px solid;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+    color: white;
+    background-color:#374151;
+
+
+}
