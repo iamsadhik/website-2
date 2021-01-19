@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&display=swap');
+
+
 :root{
    --primary-color:#A7F3D0;
    ;
 }
 body{
-    font-family: 'Yeon Sung', cursive;
+    font-family: 'Cabin', sans-serif;
 }
 .navigation{
     background-color:#374151;
@@ -23,6 +25,7 @@ body{
 }
 .nav-header{
     text-align: left;
+    color: white;
 }
 .link-active{
     font-size: bolder;
@@ -84,4 +87,9 @@ body{
 }
 .prosize{
     font-size: 1.5rem;
+}
+
+.heads{
+    text-align: center;
+    font-size:2rem ;
 }
